@@ -11,14 +11,14 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,scala,python,js,ts,react,nodejs,docker,kubernetes,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=scala,rust,terraform,java,python,js,ts,react,nodejs,docker,kubernetes,aws,gcp" />
 </p>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letusfly85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letusfly85&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letusfly85&layout=compact&theme=tokyonight&langs_count=7&hide=html,css&custom_title=Tech%20Stack&show_icons=true&bg_color=1a1b27&title_color=70a5fd&text_color=9aa5ce&icon_color=bf91f3&border_color=70a5fd&langs=scala,react,terraform,rust,python,tailwindcss,typescript"/>
 </div>
 
 <div align="center">
